@@ -1,2 +1,3 @@
 # dynamic-link
-A dynamic URL redirect service
+
+A dynamic URL redirect service.
